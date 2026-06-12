@@ -1,0 +1,1 @@
+# sticker-manager-cup2026
