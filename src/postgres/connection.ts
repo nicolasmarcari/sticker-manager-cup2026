@@ -26,4 +26,8 @@ export default class Postgres {
       logger.error(error);
     }
   }
+
+  getPool(): Pool {
+    return this.pool;
+  }
 }
